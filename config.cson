@@ -1,0 +1,6 @@
+"*":
+  Pymakr: {}
+  core:
+    automaticallyUpdate: false
+  "exception-reporting":
+    userId: "e7428dbc-2069-40ed-bee8-8cf1af95a2f4"
